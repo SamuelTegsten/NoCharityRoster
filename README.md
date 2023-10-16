@@ -35,9 +35,11 @@
 
 <h1 align="center">Video</h1>
 <p align="center">
+    <p align="center"> 
   <a href="https://www.youtube.com/watch?v=4fejMNz1MzY">
     <img src="https://img.youtube.com/vi/4fejMNz1MzY/0.jpg" alt="Click to Watch Video">
   </a>
+       </p> 
   <a href="https://www.youtube.com/watch?v=ePp51SFfLJg">
     <img src="https://img.youtube.com/vi/ePp51SFfLJg/0.jpg" alt="Click to Watch Video">
   </a>
