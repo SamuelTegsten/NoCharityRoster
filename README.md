@@ -3,7 +3,8 @@
 <body>
 
 <h1 align="center">Welcome to the No Charity Roster Project!</h1>
-<p align="center">Manage your roster with ease and style. My tip whould be to order the melee and ranged on after another so when rolling for a bench, you bench one melee and one ranged at a time.</p>
+<p align="center">Manage your roster with ease and style. </p>
+<p align="center">My tip whould be to order the melee and ranged on after another so when rolling for a bench, you bench one melee and one ranged at a time.</p>
 
 <h2 align="center">🚀 Getting Started</h2>
 <p align="center">Get started with the No Charity Roster by opening the HTML file in your web browser. This application offers an array of features to simplify your roster management:</p>
