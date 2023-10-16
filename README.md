@@ -40,9 +40,11 @@
     <img src="https://img.youtube.com/vi/4fejMNz1MzY/0.jpg" alt="Click to Watch Video">
   </a>
        </p> 
+       <p align="center">
   <a href="https://www.youtube.com/watch?v=ePp51SFfLJg">
     <img src="https://img.youtube.com/vi/ePp51SFfLJg/0.jpg" alt="Click to Watch Video">
   </a>
+           </p>
 </p>
 
 <p align="center">Thank you for choosing the No Charity Roster application. If you have any questions, suggestions, or issues, please feel free to open an issue or contribute to the project on GitHub.</p>
