@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>No Charity Roster</title>
+    <title> No Charity Roster </title>
 </head>
 
 <body>
