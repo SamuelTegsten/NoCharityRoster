@@ -6,7 +6,7 @@
 <p align="center">Manage your roster with ease and style.</p>
 
 <h2>🚀 Getting Started</h2>
-<p>Get started with the No Charity Roster by opening the HTML file in your web browser. This application offers an array of features to simplify your roster management:</p>
+<p align="center">Get started with the No Charity Roster by opening the HTML file in your web browser. This application offers an array of features to simplify your roster management:</p>
 
 <ul>
     <li align="center"><strong>📋 Display Roster:</strong> Easily view your roster in a tabular format, including columns for Name, Class, Spec, Bench Amount, Decrement, and Delete.</li>
@@ -18,13 +18,13 @@
 </ul>
 
 <h2 align="center">🚀 How It Works</h2>
-<p>The No Charity Roster leverages HTML, CSS, and JavaScript to offer a user-friendly interface. Your roster data is stored in your browser's local storage, ensuring you can always access your roster, even if you close the browser.</p>
+<p align="center">The No Charity Roster leverages HTML, CSS, and JavaScript to offer a user-friendly interface. Your roster data is stored in your browser's local storage, ensuring you can always access your roster, even if you close the browser.</p>
 
 <h2 align="center">🚀 Customization</h2>
-<p>Customize the application to match your preferences and website design by modifying the CSS styles in the provided Style.css file.</p>
+<p align="center">Customize the application to match your preferences and website design by modifying the CSS styles in the provided Style.css file.</p>
 
 <h2 align="center">🚀 Authors</h2>
-<p>Author: [Samuel Tegsten]</p>
+<p align="center">Author: [Samuel Tegsten]</p>
 
 <h2 align="center">🚀 License</h2>
 <p align="center">This project is open-source and available under the MIT License.
