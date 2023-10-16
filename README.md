@@ -1,34 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
-        /* Add your CSS styling here */
-        body {
-            font-family: Arial, sans-serif;
-        }
-
-        h1 {
-            color: #3498db;
-        }
-
-        h2 {
-            color: #27ae60;
-        }
-
-        p {
-            color: #333;
-        }
-
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-
-        li {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
 <body>
 
 <h1 align="center">🚀 Welcome to the No Charity Roster Project!</h1>
