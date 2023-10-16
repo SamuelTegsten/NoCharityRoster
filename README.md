@@ -3,6 +3,11 @@
 <body>
 
 <h1 align="center">Welcome to the No Charity Roster Project!</h1>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4fejMNz1MzY">
+    <img src="https://img.youtube.com/vi/4fejMNz1MzY/0.jpg" alt="Click to Watch Video">
+  </a>
+</p>
 <p align="center">Manage your roster with ease and style.</p>
 
 <h2 align="center">🚀 Getting Started</h2>
