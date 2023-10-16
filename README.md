@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to the No Charity Roster Project!</h1>
 <p align="center">Manage your roster with ease and style.</p>
 
-<h2 align="center"2>🚀 Getting Started</h2>
+<h2 align="center">🚀 Getting Started</h2>
 <p align="center">Get started with the No Charity Roster by opening the HTML file in your web browser. This application offers an array of features to simplify your roster management:</p>
 
 <ul>
