@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <title> No Charity Roster </title>
-</head>
-
 <body>
 
 <h1>Welcome to the No Charity Roster project!</h1>
@@ -29,7 +24,7 @@
 <p>You can customize the application by adjusting the CSS styles in the provided Style.css file. Feel free to modify the styles to fit your preferences and match your website's design.</p>
 
 <h2>Authors</h2>
-<p>[Samuel Tegsten]</p>
+<p>Samuel Tegsten</p>
 
 <h2>License</h2>
 <p>This project is open-source and available under the MIT License.</p>
