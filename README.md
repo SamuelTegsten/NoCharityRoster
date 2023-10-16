@@ -3,11 +3,6 @@
 <body>
 
 <h1 align="center">Welcome to the No Charity Roster Project!</h1>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=4fejMNz1MzY">
-    <img src="https://img.youtube.com/vi/4fejMNz1MzY/0.jpg" alt="Click to Watch Video">
-  </a>
-</p>
 <p align="center">Manage your roster with ease and style.</p>
 
 <h2 align="center">🚀 Getting Started</h2>
@@ -36,6 +31,13 @@
 
 <h2 align="center">Acknowledgments</h2>
 <p align="center">We extend our gratitude to the open-source community and the developers of various libraries and tools that made this project possible.
+
+<h1 align="center">Video</h1>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4fejMNz1MzY">
+    <img src="https://img.youtube.com/vi/4fejMNz1MzY/0.jpg" alt="Click to Watch Video">
+  </a>
+</p>
 
 <p align="center">Thank you for choosing the No Charity Roster application. If you have any questions, suggestions, or issues, please feel free to open an issue or contribute to the project on GitHub.</p>
 
