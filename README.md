@@ -25,7 +25,7 @@
 <p align="center">Customize the application to match your preferences and website design by modifying the CSS styles in the provided Style.css file.</p>
 
 <h2 align="center">Authors</h2>
-<p align="center">Author: [Samuel Tegsten]</p>
+<p align="center">Author: Samuel Tegsten</p>
 
 <h2 align="center">License</h2>
 <p align="center">This project is open-source and available under the MIT License.
