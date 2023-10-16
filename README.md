@@ -39,7 +39,7 @@
     <img src="https://img.youtube.com/vi/4fejMNz1MzY/0.jpg" alt="Click to Watch Video">
   </a>
   <a href="https://www.youtube.com/watch?v=ePp51SFfLJg">
-    <img src="https://img.https://www.youtube.com/watch?v=ePp51SFfLJg/0.jpg" alt="Click to Watch Video">
+    <img src="https://img.youtube.com/vi/ePp51SFfLJg/0.jpg" alt="Click to Watch Video">
   </a>
 </p>
 
